@@ -1,2 +1,2 @@
 # Lab 3 notes
-Author: feature-b
+Authors: feature-a, feature-b
